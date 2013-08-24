@@ -24,9 +24,9 @@
 						<key>foreground</key><string>#DEDEDE</string>
 						<key>invisibles</key><string>#3B3A32</string>
 						<!-- Line highlighting: on -->
-						<!--<key>lineHighlight</key><string>#E5E5E515</string>-->
+						<key>lineHighlight</key><string>#E5E5E515</string>
 						<!-- Line highlighting: off -->
-						<key>lineHighlight</key><string>#E5E5E5BB</string>
+						<!--<key>lineHighlight</key><string>#E5E5E5BB</string>-->
 
 						<key>selection</key><string>#253B76</string>
 						<key>selectionBorder</key><string>#A1A1FF</string>

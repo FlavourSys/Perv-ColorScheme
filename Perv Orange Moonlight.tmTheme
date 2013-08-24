@@ -23,11 +23,9 @@
 						<key>caret</key><string>#FFFFFF</string>
 						<key>foreground</key><string>#EEEEEE</string>
 						<key>invisibles</key><string>#3B3A32</string>
-<!-- Please use the line below if you have '"highlight_line": true' in your settings	-->
-						<!-- <key>lineHighlight</key><string>#E5E5E515</string> 		-->
-
-<!-- Please use the line below if you have '"highlight_line": false' in your settings	-->
-<!-- 						(the one below is the default)								-->
+						<!-- Line highlighting: on -->
+						<!--<key>lineHighlight</key><string>#E5E5E515</string>-->
+						<!-- Line highlighting: off -->
 						<key>lineHighlight</key><string>#E5E5E5BB</string>
 
 						<key>selection</key><string>#253B76</string>
