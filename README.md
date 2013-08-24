@@ -50,7 +50,7 @@ There are so many different personal tastes, that it is nearly impossible to mak
 
 In order to edit the specific scheme file, you want to use/amend, please select the `Preferences -> Browse Packages` menu entry in Sublime Text.  That will open the Packages directory either in the "Finder" (on Mac OS X) or in the "Explorer" (on Windows).  Go into the "Perv - Color Scheme" directory and drag'n'drop the color scheme file, which you would like to use, to your Sublime Text editor.  After the file is loaded in the editor do the following regarding what you would like to change:
 
-+ *Using Line highlight*: search for "highlight_line". There are two "lineHighlight" entries in the file (one is commented out). Just comment the currently active line out and uncomment the other line.
++ *Using Line highlight*: use *Line Highlighting* version of desired color scheme.
 + *Switch of italic or bold font faces*: search for either "italic" or "bold" in the file.  Just comment the line below the comment/instruction out.  Rinse and repeat for all font faces you want to remove.
 
 > **Hint:** as you're already using Sublime Text -- commenting and uncommenting is as easy as a key-press: Mac: <kbd>&#x2318;</kbd>+<kbd>/</kbd> and for the PCs: <kbd>CTRL</kbd>+<kbd>/</kbd>)
